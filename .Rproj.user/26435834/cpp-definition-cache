@@ -1,0 +1,1250 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/R_init.c",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "R_init_markovchain(DllInfo *)",
+                "parent_name" : "",
+                "usr" : "c:@F@R_init_markovchain"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/R_init.c",
+        "file_last_write" : 1504393112
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.c",
+                "kind" : 6,
+                "line" : 16,
+                "name" : "SuiteSparse_malloc(size_t, size_t, int *, SuiteSparse_config *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SuiteSparse_malloc"
+            },
+            {
+                "column" : 7,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.c",
+                "kind" : 6,
+                "line" : 51,
+                "name" : "SuiteSparse_free(void *, SuiteSparse_config *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SuiteSparse_free"
+            },
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.c",
+                "kind" : 6,
+                "line" : 123,
+                "name" : "SuiteSparse_tic(double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SuiteSparse_tic"
+            },
+            {
+                "column" : 8,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.c",
+                "kind" : 6,
+                "line" : 147,
+                "name" : "SuiteSparse_toc(double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SuiteSparse_toc"
+            },
+            {
+                "column" : 8,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.c",
+                "kind" : 6,
+                "line" : 164,
+                "name" : "SuiteSparse_time",
+                "parent_name" : "",
+                "usr" : "c:@F@SuiteSparse_time"
+            },
+            {
+                "column" : 5,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.c",
+                "kind" : 6,
+                "line" : 179,
+                "name" : "SuiteSparse_version(int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SuiteSparse_version"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.c",
+        "file_last_write" : 1435958871
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 16,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.h",
+                "kind" : 3,
+                "line" : 85,
+                "name" : "SuiteSparse_config_struct",
+                "parent_name" : "",
+                "usr" : "c:@S@SuiteSparse_config_struct"
+            },
+            {
+                "column" : 3,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.h",
+                "kind" : 8,
+                "line" : 92,
+                "name" : "SuiteSparse_config",
+                "parent_name" : "",
+                "usr" : "c:SuiteSparse_config.h@3140@T@SuiteSparse_config"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/SuiteSparse_config.h",
+        "file_last_write" : 1435958871
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/bwsolve.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "bwsolve(double *, const double *, const int)",
+                "parent_name" : "",
+                "usr" : "c:@F@bwsolve"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/bwsolve.c",
+        "file_last_write" : 1493300713
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/bwsolveWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "bwsolveWrapper(double *, double *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@bwsolveWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/bwsolveWrapper.c",
+        "file_last_write" : 1493073410
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 16,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 3,
+                "line" : 718,
+                "name" : "Colamd_Col_struct",
+                "parent_name" : "",
+                "usr" : "c:@S@Colamd_Col_struct"
+            },
+            {
+                "column" : 3,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 8,
+                "line" : 749,
+                "name" : "Colamd_Col",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@24775@T@Colamd_Col"
+            },
+            {
+                "column" : 16,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 3,
+                "line" : 751,
+                "name" : "Colamd_Row_struct",
+                "parent_name" : "",
+                "usr" : "c:@S@Colamd_Row_struct"
+            },
+            {
+                "column" : 3,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 8,
+                "line" : 766,
+                "name" : "Colamd_Row",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@25850@T@Colamd_Row"
+            },
+            {
+                "column" : 15,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 1033,
+                "name" : "t_add(size_t, size_t, int *)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@33444@F@t_add"
+            },
+            {
+                "column" : 15,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 1040,
+                "name" : "t_mult(size_t, size_t, int *)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@33657@F@t_mult"
+            },
+            {
+                "column" : 13,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 1673,
+                "name" : "init_rows_cols(int, int, Colamd_Row *, Colamd_Col *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@28999@F@init_rows_cols"
+            },
+            {
+                "column" : 14,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 1910,
+                "name" : "init_scoring(int, int, Colamd_Row *, Colamd_Col *, int *, int *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@29166@F@init_scoring"
+            },
+            {
+                "column" : 13,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 2185,
+                "name" : "find_ordering(int, int, int, Colamd_Row *, Colamd_Col *, int *, int *, int, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@29396@F@find_ordering"
+            },
+            {
+                "column" : 14,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 2750,
+                "name" : "order_children(int, Colamd_Col *, int *)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@29617@F@order_children"
+            },
+            {
+                "column" : 14,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 2851,
+                "name" : "detect_super_cols(Colamd_Col *, int *, int *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@29703@F@detect_super_cols"
+            },
+            {
+                "column" : 13,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 3008,
+                "name" : "garbage_collection(int, int, Colamd_Row *, Colamd_Col *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@29908@F@garbage_collection"
+            },
+            {
+                "column" : 13,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 3140,
+                "name" : "clear_mark(int, int, int, Colamd_Row *)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@30051@F@clear_mark"
+            },
+            {
+                "column" : 14,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+                "kind" : 6,
+                "line" : 3175,
+                "name" : "print_report(char *, int *)",
+                "parent_name" : "",
+                "usr" : "c:colamd.c@30154@F@print_report"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.c",
+        "file_last_write" : 1435958871
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd.h",
+        "file_last_write" : 1435958871
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/colamd_global.c",
+        "file_last_write" : 1435958871
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/fwsolve.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "fwsolve(double *, const double *, const double *, const int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fwsolve"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/fwsolve.c",
+        "file_last_write" : 1493161699
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/fwsolveWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "fwsolveWrapper(double *, double *, double *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@fwsolveWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/fwsolveWrapper.c",
+        "file_last_write" : 1493073233
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/mexMatvec.h",
+        "file_last_write" : 1493044051
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/mexinprod.h",
+        "file_last_write" : 1496245148
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/mexprod.h",
+        "file_last_write" : 1496141686
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/mextriang.h",
+        "file_last_write" : 1493301881
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/ops1.c",
+                "kind" : 6,
+                "line" : 1,
+                "name" : "ops1(double *, double *, double *, int, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@ops1"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/ops1.c",
+        "file_last_write" : 1493822966
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/ops1Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "ops1Wrapper(double *, double *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@ops1Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/ops1Wrapper.c",
+        "file_last_write" : 1493823266
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/ops3.c",
+                "kind" : 6,
+                "line" : 1,
+                "name" : "ops3(double *, double *, double *, int, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@ops3"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/ops3.c",
+        "file_last_write" : 1493822976
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/ops3Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "ops3Wrapper(double *, double *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@ops3Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/ops3Wrapper.c",
+        "file_last_write" : 1493823268
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/opsHeader.h",
+        "file_last_write" : 1493823294
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/prod1.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "prod1(int, int, int, double *, int *, int *, int, double *, double *, int *, int *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@prod1"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/prod1.c",
+        "file_last_write" : 1503506416
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/prod1Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "prod1Wrapper(int *, int *, int *, double *, int *, int *, int *, double *, double *, int *, int *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@prod1Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/prod1Wrapper.c",
+        "file_last_write" : 1496141824
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/prod2.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "prod2(int, int, int, double *, int *, int *, int, double *, int *, int *, int, double *, int *, int *, double *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@prod2"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/prod2.c",
+        "file_last_write" : 1503500646
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 7,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/prod2Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "prod2Wrapper(int *, int *, int *, double *, int *, int *, int *, double *, int *, int *, int *, double *, int *, int *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@prod2Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/prod2Wrapper.c",
+        "file_last_write" : 1496142027
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "realdot(const double *, const double *, const int)",
+                "parent_name" : "",
+                "usr" : "c:@F@realdot"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot.c",
+        "file_last_write" : 1493301974
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot1.c",
+                "kind" : 6,
+                "line" : 1,
+                "name" : "realdot1(const double *, const int, const double *, const int)",
+                "parent_name" : "",
+                "usr" : "c:@F@realdot1"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot1.c",
+        "file_last_write" : 1496243166
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot1Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "realdot1Wrapper(const double *, const int *, const double *, const int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@realdot1Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot1Wrapper.c",
+        "file_last_write" : 1496245714
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot2.c",
+                "kind" : 6,
+                "line" : 1,
+                "name" : "realdot2(const double *, const int, const double *, const int, const int)",
+                "parent_name" : "",
+                "usr" : "c:@F@realdot2"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot2.c",
+        "file_last_write" : 1496141502
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot22.c",
+                "kind" : 6,
+                "line" : 1,
+                "name" : "realdot22(const double *, int *, int *, const int, const double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@realdot22"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot22.c",
+        "file_last_write" : 1496245150
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot22Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "realdot22Wrapper(const double *, int *, int *, const int *, const double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@realdot22Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdot22Wrapper.c",
+        "file_last_write" : 1496245920
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdotde.c",
+                "kind" : 6,
+                "line" : 1,
+                "name" : "realdotde(double *, int, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@realdotde"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdotde.c",
+        "file_last_write" : 1493043265
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdotde.h",
+        "file_last_write" : 1493043695
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdotdeWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "realdotdeWrapper(double *, int *, double *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@realdotdeWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/realdotdeWrapper.c",
+        "file_last_write" : 1493048279
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/saxpymat.c",
+                "kind" : 6,
+                "line" : 1,
+                "name" : "saxpymat(double *, int, int, int, double, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@saxpymat"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/saxpymat.c",
+        "file_last_write" : 1493043601
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/saxpymatWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "saxpymatWrapper(double *, int *, int *, int *, double *, double *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@saxpymatWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/saxpymatWrapper.c",
+        "file_last_write" : 1493045933
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij1.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "schurij1(int, double *, int *, int *, int *, double *, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@schurij1"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij1.c",
+        "file_last_write" : 1496078496
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij1Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "schurij1Wrapper(int *, double *, int *, int *, int *, double *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@schurij1Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij1Wrapper.c",
+        "file_last_write" : 1496069548
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij2.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "schurij2(double *, int *, int *, int *, double *, int *, int *, int *, int *, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@schurij2"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij2.c",
+        "file_last_write" : 1497494470
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij2Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "schurij2Wrapper(double *, int *, int *, int *, double *, int *, int *, int *, int *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@schurij2Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij2Wrapper.c",
+        "file_last_write" : 1496069890
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij3.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "schurij3(int, double *, int *, int *, int *, double *, double *, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@schurij3"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij3.c",
+        "file_last_write" : 1496078524
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij3Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "schurij3Wrapper(int *, double *, int *, int *, int *, double *, double *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@schurij3Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij3Wrapper.c",
+        "file_last_write" : 1496070013
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij4.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "schurij4(double *, int *, int *, int *, double *, double *, int *, int *, int *, int *, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@schurij4"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij4.c",
+        "file_last_write" : 1497494502
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij4Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "schurij4Wrapper(double *, int *, int *, int *, double *, double *, int *, int *, int *, int *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@schurij4Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurij4Wrapper.c",
+        "file_last_write" : 1496070136
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/schurmat.h",
+        "file_last_write" : 1496078426
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/setvec.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "setvec(int, double *, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@setvec"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/setvec.c",
+        "file_last_write" : 1496068801
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/setvecWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "setvecWrapper(int *, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@setvecWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/setvecWrapper.c",
+        "file_last_write" : 1496084241
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skron.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "skron(int, int, double *, double *, double *, double *, double *, double *, int, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@skron"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skron.c",
+        "file_last_write" : 1497971594
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skron.h",
+        "file_last_write" : 1497971694
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skron2.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "skron2(int, int, double *, double *, double *, double *, double *, double *, int, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@skron2"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skron2.c",
+        "file_last_write" : 1497971590
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skron2Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "skron2Wrapper(int *, int *, double *, double *, double *, double *, double *, double *, int *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@skron2Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skron2Wrapper.c",
+        "file_last_write" : 1497971586
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skronWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "skronWrapper(int *, int *, double *, double *, double *, double *, double *, double *, int *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@skronWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/skronWrapper.c",
+        "file_last_write" : 1497971582
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat.h",
+        "file_last_write" : 1494813161
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat1.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "smat1(int, const double, const double *, const int *, const int *, int, int, int, double *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@smat1"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat1.c",
+        "file_last_write" : 1503506508
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat1Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "smat1Wrapper(int *, const double *, const double *, const int *, const int *, int *, int *, int *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@smat1Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat1Wrapper.c",
+        "file_last_write" : 1494866476
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat1cmp.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "smat1cmp(int, const double, const double *, const int *, const int *, int, int, int, double *, int *, int *, int, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@smat1cmp"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat1cmp.c",
+        "file_last_write" : 1503506501
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat2.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "smat2(int, const int, const int *, const int *, const double, const double *, const int *, const int *, int, int, int, double *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@smat2"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat2.c",
+        "file_last_write" : 1503506523
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat2Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "smat2Wrapper(int *, const int *, const int *, const int *, const double *, const double *, const int *, const int *, int *, int *, int *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@smat2Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat2Wrapper.c",
+        "file_last_write" : 1494866801
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat2cmp.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "smat2cmp(int, const int, const int *, const int *, const double, const double *, const int *, const int *, int, int, int, double *, int *, int *, int, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@smat2cmp"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/smat2cmp.c",
+        "file_last_write" : 1503506533
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/subscalarmul.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "subscalarmul(double *, const double, const double *, const int)",
+                "parent_name" : "",
+                "usr" : "c:@F@subscalarmul"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/subscalarmul.c",
+        "file_last_write" : 1493301970
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec.h",
+        "file_last_write" : 1496177987
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec1.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec1(int, double, double *, int *, int *, int, double *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec1"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec1.c",
+        "file_last_write" : 1503499071
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec1Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec1Wrapper(int *, double *, double *, int *, int *, int *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec1Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec1Wrapper.c",
+        "file_last_write" : 1496178613
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec1cmp.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec1cmp(int, double, double *, int *, int *, int, double *, int *, int *, int, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec1cmp"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec1cmp.c",
+        "file_last_write" : 1503499076
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec1cmpWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec1cmpWrapper(int *, double *, double *, int *, int *, int *, double *, int *, int *, int *, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec1cmpWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec1cmpWrapper.c",
+        "file_last_write" : 1496178723
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec2.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec2(int, int, int *, int *, double, double *, int *, int *, int, double *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec2"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec2.c",
+        "file_last_write" : 1503499082
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec2Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec2Wrapper(int *, int *, int *, int *, double *, double *, int *, int *, int *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec2Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec2Wrapper.c",
+        "file_last_write" : 1496178821
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec2cmp.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec2cmp(int, int, int *, int *, double, double *, int *, int *, int, double *, int *, int *, int, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec2cmp"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec2cmp.c",
+        "file_last_write" : 1503499088
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec2cmpWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec2cmpWrapper(int *, int *, int *, int *, double *, double *, int *, int *, int *, double *, int *, int *, int *, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec2cmpWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec2cmpWrapper.c",
+        "file_last_write" : 1496178917
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec3.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec3(int, double, double *, int *, int *, int, double *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec3"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec3.c",
+        "file_last_write" : 1504362790
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec3Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec3Wrapper(int *, double *, double *, int *, int *, int *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec3Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec3Wrapper.c",
+        "file_last_write" : 1496179004
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec3cmp.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec3cmp(int, double, double *, int *, int *, int, double *, int *, int *, int, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec3cmp"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec3cmp.c",
+        "file_last_write" : 1503499740
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec3cmpWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec3cmpWrapper(int *, double *, double *, int *, int *, int *, double *, int *, int *, int *, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec3cmpWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec3cmpWrapper.c",
+        "file_last_write" : 1496179106
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec4.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec4(int, int, int *, int *, double, double *, int *, int *, int, double *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec4"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec4.c",
+        "file_last_write" : 1496179265
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec4Wrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec4Wrapper(int *, int *, int *, int *, double *, double *, int *, int *, int *, double *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec4Wrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec4Wrapper.c",
+        "file_last_write" : 1496179263
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec4cmp.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec4cmp(int, int, int *, int *, double, double *, int *, int *, int, double *, int *, int *, int, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec4cmp"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec4cmp.c",
+        "file_last_write" : 1503506557
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec4cmpWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "svec4cmpWrapper(int *, int *, int *, int *, double *, double *, int *, int *, int *, double *, int *, int *, int *, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@svec4cmpWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/svec4cmpWrapper.c",
+        "file_last_write" : 1496179355
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/sym.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "sym(double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@sym"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/sym.c",
+        "file_last_write" : 1494812546
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/symamdWrapper.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "symamdWrapper(int *, int *, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@symamdWrapper"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/symamdWrapper.c",
+        "file_last_write" : 1492692549
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/symcmp.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "symcmp(double *, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@symcmp"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/symcmp.c",
+        "file_last_write" : 1494812530
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/vec.c",
+                "kind" : 6,
+                "line" : 2,
+                "name" : "vec(int, int *, int *, double *, int *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@vec"
+            }
+        ],
+        "file" : "C:/Users/adamr/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/src/vec.c",
+        "file_last_write" : 1496069041
+    }
+]

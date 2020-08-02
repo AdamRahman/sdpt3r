@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539820481180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3384479283",
+    "id" : "A454BE2D",
+    "lastKnownWriteTime" : 1539820510,
+    "last_content_update" : 1539820510588,
+    "path" : "C:/Users/Adam/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/R/logcheby.R",
+    "project_path" : "R/logcheby.R",
+    "properties" : {
+        "cursorPosition" : "22,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539821668377.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6F60E8E7",
+    "lastKnownWriteTime" : 1539820903,
+    "last_content_update" : 1539820903,
+    "path" : "C:/Users/Adam/Dropbox/ShareRahmanOldford/R Packages/sdpt3r/sdpt3r/vignettes/doptimal.Rnw",
+    "project_path" : "vignettes/doptimal.Rnw",
+    "properties" : {
+        "cursorPosition" : "284,21",
+        "scrollLine" : "249"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sweave"
+}
